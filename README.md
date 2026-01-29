@@ -65,7 +65,7 @@ node src/app.js
 
 ------------------------------------------------------------------------
 
-## 📡 API Endpoint
+## API Endpoint
 
 ### GET `/email`
 
@@ -114,3 +114,4 @@ ensure reliable responses.
 This project demonstrates backend development best practices, AI
 integration, and clean architecture suitable for real-world
 applications.
+
